@@ -1,4 +1,4 @@
-myArr = [9, 4, 8, 6, 3, 7]
+myArr = [9, 4, 8, 6, 3, 7, 1]
 
 def insertion_sort (arr):
     length = len(arr)
